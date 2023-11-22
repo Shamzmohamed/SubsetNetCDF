@@ -1,0 +1,17 @@
+𝗠𝗮𝘅𝗶𝗺𝘂𝗺 𝗻𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝗰𝗼𝗻𝘀𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘀𝘂𝗺𝗺𝗲𝗿 𝗱𝗮𝘆𝘀
+
+sis-agroclimatic-indicators
+
+origin: hadgem2_es_model
+HadGEM2- Hadley Centre Global Environment Model version 2
+
+Temporal Resolution - Seasonal
+2011 -  04 (April), 07 (July),  10 (October)
+2012 -  01(January), 04 (April), 07 (July),  10 (October)
+2013 ..............
+
+Data Availability 
+2011-2040 (29 Years)
+3 bands for 2011
+4 bands for 1 year (i.e) - 29x4 - 116 bands (+3 bands -2011)
+Total 119 bands
