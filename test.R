@@ -58,6 +58,5 @@ for (i in 1:num_bands) {
   if (file.exists(file_path)) {
     clipped_vectors_list[[i]] <- readRDS(file_path)
   } else {
-    warning(paste("File not found:", file_path))
-  }
+    warning(paste("File not found:", file_path))}
 }
