@@ -1,4 +1,4 @@
-𝗠𝗮𝘅𝗶𝗺𝘂𝗺 𝗻𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝗰𝗼𝗻𝘀𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘀𝘂𝗺𝗺𝗲𝗿 𝗱𝗮𝘆𝘀
+𝗠𝗮𝘅𝗶𝗺𝘂𝗺 𝗻𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝗰𝗼𝗻𝘀𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝘀𝘂𝗺𝗺𝗲𝗿 𝗱𝗮𝘆𝘀 
 
 sis-agroclimatic-indicators
 
@@ -10,8 +10,12 @@ Temporal Resolution - Seasonal
 2012 -  01(January), 04 (April), 07 (July),  10 (October)
 2013 .............. 2040
 
-𝗗𝗮𝘁𝗮 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆:
+𝗗𝗮𝘁𝗮 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆: 
 2011-2040 (29 Years)
 3 bands for 2011
 4 bands for 1 year (i.e) - 29x4 - 116 bands (+3 bands -2011)
 Total 119 bands
+
+𝗠𝗲𝘁𝗵𝗼𝗱𝘀 𝘁𝗼 𝗲𝘅𝘁𝗿𝗮𝗰𝘁 𝗯𝗮𝗻𝗱𝘀:
+1. Using FOR loop through bands to extract the bands (time consuming)
+2. Parallel Processing (Parallely clips the bands)
