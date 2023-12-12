@@ -10,6 +10,12 @@ Temporal Resolution - Seasonal
 2012 -  01(January), 04 (April), 07 (July),  10 (October)
 2013 .............. 2040
 
+computed for 3 month periods representing the standard meteorological seasons:
+Dec, Jan, Feb (DJF)
+Mar, Apr, May (MAM)
+Jun, Jul, Aug (JJA)
+Sep, Oct, Nov (SON)
+
 𝗗𝗮𝘁𝗮 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆: 
 2011-2040 (29 Years)
 3 bands for 2011
