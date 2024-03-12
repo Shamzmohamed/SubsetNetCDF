@@ -1,5 +1,5 @@
 # SubsetNetCDF  
-Subsetting NetCDF data using a shapefile. 
+Subsetting NetCDF data using a shapefile.
 The NC data is the consecutive maximum number of summer days (seasonal- Also you can check the metadeta of the netcdf in the NC Metadata File).
 The shapefile here used is the Andalucia Region, Spain. 
 There are two possible ways to subset the nc data using the shapefile.
