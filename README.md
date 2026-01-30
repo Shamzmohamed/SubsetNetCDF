@@ -7,4 +7,4 @@ There are two possible ways to subset the nc data using the shapefile.
 - Converting raster to vector (raster to polygon conversion)  
    - To get smooth curves on the boundary of the shapefile.
  
-![Structure](Images/All3.png)
+![Structure](https://raw.githubusercontent.com/Shamzmohamed/SubsetNetCDF/main/NC data/Net_CDF_Subset_wauch.zip)
